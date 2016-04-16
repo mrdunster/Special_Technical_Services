@@ -1,0 +1,174 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #E9ECF3;
+}
+
+/*------ Nav Bar ------*/
+.uk-navbar {
+	background: transparent;
+	padding: 10px 0px 15px 0px;
+}
+#offNav {
+	text-align: center;
+}
+#offNav a {
+	color:white;
+}
+#offNav li {
+	width: 100%;
+}
+#offNav li:hover a {
+	color:#333333;
+}
+#offNav .uk-dropdown {
+	background-color: black;
+}
+#offNav .uk-dropdown li a {
+	color:white;
+}
+
+.assisted_center {
+	margin-left: 120px;
+}
+/*------ END Nav Bar ------*/
+
+/*------ Main Picture ------*/
+#background-area {
+	background: #0F2D53;
+	border-top: 10px solid #0F2D53;
+	padding: 19px 0 28px 0;
+}
+
+IMG.display {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*------ END Main Picture ------*/
+
+/*------ Mini Content ------*/
+.mini_content_info h3 {
+    font-weight: bold;
+}
+
+.mini_content_info p {
+    color: #363636;
+    line-height: 20px;
+    margin-bottom: 22px;
+}
+
+.mini_content_info a {
+    color: #0F2D53;
+}
+
+.mini_content_info a img {
+    margin: 0 8px 1px 0;
+}
+
+.mini_content_info a:hover {
+    text-decoration: underline;
+}
+/*------ END Mini Content ------*/
+
+/*------ Footer Styling ------*/
+.footer_content  ul {
+	list-style: none;
+}
+
+.footer_content  li {
+	margin-top: 7px;
+}
+
+.footer_content a {
+	color: #0F2D53;
+}
+
+.footer_content a:hover {
+	color: #0F2D53;
+}
+
+.footer_content h3 {
+    font-weight: bold;
+}
+
+.footer_content_else h3 {
+    font-weight: bold;
+    margin-left: 29px;
+}
+
+.footer_content p {
+    color: #363636;
+    line-height: auto;
+    margin-bottom: 22px;
+    font-size: 12px;
+}
+
+.footer_bold_text {
+	font-weight: bold;
+}
+
+.footer_contact_us h3 {
+
+}
+
+/*------ Product Content ------*/
+.product_content_info h3 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.product_content_info p {
+    color: #363636;
+    line-height: 20px;
+    margin-bottom: 22px;
+}
+
+.product_content_info a {
+    color: #0F2D53;
+}
+
+.product_content_info a img {
+    margin: 0 8px 1px 0;
+}
+
+.product_content_info a:hover {
+    text-decoration: underline;
+}
+/*------ END Product Content ------*/
+
+/*------ Unit Content ------*/
+.unit_content_info h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.unit_content_info h3 {
+    font-weight: bold;
+    text-align: left;
+ }
+
+.unit_content_info p {
+    color: #363636;
+    line-height: 20px;
+    margin-bottom: 22px;
+}
+
+.unit_content_info a {
+    color: #0F2D53;
+}
+
+.unit_content_info a img {
+    margin: 0 8px 1px 0;
+}
+
+.unit_content_info a:hover {
+    text-decoration: underline;
+}
+
+.list_content  ul {
+	list-style: none;
+}
+/*------ END Unit Content ------*/
