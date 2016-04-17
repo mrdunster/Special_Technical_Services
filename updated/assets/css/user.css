@@ -175,3 +175,9 @@ IMG.display {
 	list-style: none;
 }
 /*------ END Unit Content ------*/
+
+/*------ Techncial Content ------*/
+.technical_content h2 {
+    padding-top: 25px;
+    text-align: center;
+}
