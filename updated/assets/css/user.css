@@ -181,3 +181,13 @@ IMG.display {
     padding-top: 25px;
     text-align: center;
 }
+
+.technical_downloads {
+    text-align: center;
+}
+
+.technical_downloads a {
+    color: #0F2D53;
+}
+.technical_downloads a:hover {
+    text-decoration: underline;
