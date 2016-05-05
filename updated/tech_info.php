@@ -18,7 +18,7 @@
 	  ga('send', 'pageview');	</script>
 	<meta http-equiv="refresh" content="1"-->
 </head>
-<body class="uk-height-1-2">
+<body class="uk-height-1-1">
 
 	<!--Main Nav Bar-->
 	<nav class="uk-navbar uk-navbar-attached">
@@ -81,7 +81,6 @@
 	    	<h2>Technical Documentation</h2>
 	    </div>
 	</div>
-	<!--END Main Content-->
 
 	<!--Ground Monitoring System-->
 	<div class="uk-grid uk-container-center">
@@ -113,45 +112,22 @@
 	</div>
 	<!--END Ground Monitoring System-->
 
-	<!--Portable-->
+	
+	<!--Ground Monitoring System-->
 	<div class="uk-grid uk-container-center">
 		<div class="uk-width-1-5"></div>
-		<h3>Portable System</h3>
+		<h3>Ground Monitoring System</h3>
 	</div>
 	<div class="uk-grid uk-container-center technical_downloads">
 		<div class="uk-width-1-5"></div>
     	<div class="uk-width-1-10">
-    		<a href="assets/data/PDFs/Portable/ESDM_G8.pdf"  download="ESDM G8 Portable"><img src="assets/img/pdf.png">
-    		<p>ESDM G8 Portable</p></a>
+    		<a href="assets/data/PDFs/PermanentAndTruckMounted/STS_8805_E.PDF" download="STS 300 Wiring Diagram"><img src="assets/img/pdf.png">
+    		<p>STS 300 Wiring Diagram</p></a>
     	</div>
-    </div>
-    <!--END Portable-->
+	<!--Ground Monitoring System-->
 
-    <!--Clamps and Options-->
-	<div class="uk-grid uk-container-center">
-		<div class="uk-width-1-5"></div>
-		<h3>Clamps and Options</h3>
-	</div>
-	<div class="uk-grid uk-container-center technical_downloads">
-		<div class="uk-width-1-5"></div>
-    	<div class="uk-width-1-10">
-    		<a href="assets/data/PDFs/ClampsAndOptions/Clamp_Assembly.pdf"  download="K78160A Aluminum Clamp"><img src="assets/img/pdf.png">
-    		<p>K78160A Aluminum Clamp</p></a>
-    	</div>
-    	<div class="uk-width-1-10">
-    		<a href="assets/data/PDFs/ClampsAndOptions/STS_8850.pdf"  download="GW7-50 Retractable Reel"><img src="assets/img/pdf.png">
-    		<p>GW7-50 Retractable Reel</p></a>
-    	</div>
-    	<div class="uk-width-1-10">
-    		<a href="assets/data/PDFs/ClampsAndOptions/Reel_Assy_3D.pdf"  download="GW7-50 Retractable Reel 3D View"><img src="assets/img/pdf.png">
-    		<p>GW7-50 Retractable Reel 3D View</p></a>
-    	</div>
-    	<div class="uk-width-1-10">
-    		<a href="assets/data/PDFs/ClampsAndOptions/Clamp_Assembly_3D.pdf"  download="K78160A Aluminum Clamp 3D View"><img src="assets/img/pdf.png">
-    		<p>K78160A Aluminum Clamp 3D View</p></a>
-    	</div>
-    </div>
-    <!--END Clamps and Options-->
+    <?php include 'footer.php';?>
 
+	<!--END Main Content-->
 </body>
 </html>
