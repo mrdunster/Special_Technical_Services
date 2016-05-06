@@ -32,6 +32,7 @@ body {
 
 .assisted_center {
 	margin-left: 95px;
+    margin-bottom: 75px;
 }
 /*------ END Nav Bar ------*/
 
@@ -177,8 +178,12 @@ IMG.display {
 /*------ END Unit Content ------*/
 
 /*------ Techncial Content ------*/
+.technical_info h3 {
+    font-weight: bold;
+}
+
 .technical_content h2 {
-    padding-top: 25px;
+    /*padding-top: 25px;*/
     text-align: center;
 }
 
@@ -191,3 +196,21 @@ IMG.display {
 }
 .technical_downloads a:hover {
     text-decoration: underline;
+}
+/*------ END Techncial Content ------*/
+
+/*------ Applications ------*/
+
+.applications {
+    /*margin-top: 50px;*/
+    text-align: center;
+}
+
+.applications p {
+    text-align: left;
+}
+
+.applications img {
+    margin-top: 10px;
+    height: 200px;
+}

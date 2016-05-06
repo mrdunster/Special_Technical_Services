@@ -16,7 +16,7 @@
 
 	  ga('create', 'UA-76721709-1', 'auto');
 	  ga('send', 'pageview');	</script>
-	<meta http-equiv="refresh" content="1"-->
+	<!--meta http-equiv="refresh" content="1"-->
 </head>
 <body class="uk-height-1-1">
 
@@ -126,7 +126,7 @@
     	</div>
 	<!--Ground Monitoring System-->
 
-    <?php include 'footer.php';?>
+<?php include 'footer.php';?>
 
 	<!--END Main Content-->
 </body>
