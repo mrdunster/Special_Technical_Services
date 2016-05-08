@@ -32,7 +32,6 @@ body {
 
 .assisted_center {
 	margin-left: 95px;
-    margin-bottom: 75px;
 }
 /*------ END Nav Bar ------*/
 
@@ -78,6 +77,10 @@ IMG.display {
 /*------ END Mini Content ------*/
 
 /*------ Footer Styling ------*/
+.footer_content {
+    margin-top: 50px;
+}
+
 .footer_content  ul {
 	list-style: none;
 }
@@ -116,6 +119,10 @@ IMG.display {
 
 .footer_contact_us h3 {
 
+}
+
+.footer_spacing {
+    margin-top: 10px
 }
 
 /*------ Product Content ------*/

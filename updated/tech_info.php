@@ -18,61 +18,9 @@
 	  ga('send', 'pageview');	</script>
 	<!--meta http-equiv="refresh" content="1"-->
 </head>
-<body class="uk-height-1-1">
+<body class="uk-height-1-2">
 
-	<!--Main Nav Bar-->
-	<nav class="uk-navbar uk-navbar-attached">
-        <div class="uk-container uk-container-center">
-    		<div class="assisted_center">
-	            <a class="uk-navbar-brand uk-visible-large" href="index.html"><img class="uk-margin uk-margin-remove uk-visible-large" src="assets/img/logoBrand.png" width="90" height="30"></a>
-
-	            <ul class="uk-navbar-nav uk-visible-large">
-	                <li><a href="index.html">HOME</a></li>
-	                <li class="uk-parent" data-uk-dropdown><a href="products.html">PRODUCTS<i class="uk-icon-caret-down"></i></a>
-	                	<div class="uk-dropdown uk-dropdown-navbar uk-dropdown-bottom">
-					    <ul class="uk-nav uk-nav-navbar">
-		            		<li><a href="units.html">Ground Monitoring System</a></li>
-		            		<li><a href="cables.html">Grounding Cables</a></li>
-		            		<li><a href="clamps.html">Grounding Clamps</a></li>
-		            		<li><a href="accessories.html">Accessories</a></li>
-			            </ul>
-						</div>
-	                </li>
-	                <li><a href="replacement.html">REPLACEMENT PARTS</a></li>
-	                <li><a href="ordering_guide.html">ORDERING GUIDE</a></li>
-	                <li><a href="applications.html">APPLICATIONS</a></li>
-	                <li><a href="tech_info.html">TECHNICAL INFORMATION</a></li>
-	            </ul>
-	        </div>
-            <a href="#offNav" class="uk-navbar-toggle uk-hidden-large" data-uk-offcanvas></a>
-
-            <div class="uk-navbar-brand uk-navbar-center uk-hidden-large"><img src="assets/img/logoBrand.png" width="90" height="30"></div>
-        </div>
-    </nav>
-
-	<!--Off Nav Bar-->
-	<div id="offNav" class="uk-offcanvas">
-		<div class="uk-offcanvas-bar">
-			<ul class="uk-navbar-nav">
-		        <li><a href="index.html">HOME</a></li>
-		        <li class="uk-parent" data-uk-dropdown="{pos:'bottom-center'}"><a href="products.html">PRODUCTS</a>
-					<div class="uk-dropdown uk-dropdown-navbar uk-dropdown-bottom">
-					    <ul class="uk-nav uk-nav-navbar">
-		            		<li><a href="units.html">Ground Monitoring System</a></li>
-		            		<li><a href="cables.html">Grounding Cables</a></li>
-		            		<li><a href="clamps.html">Grounding Clamps</a></li>
-		            		<li><a href="accessories.html">Accessories</a></li>
-			            </ul>
-					</div>
-		        </li>
-		        <li><a href="replacement.html">REPLACEMENT PARTS</a></li>
-		        <li><a href="ordering_guide.html">ORDERING GUIDE</a></li>
-		        <li><a href="applications.html">APPLICATIONS</a></li>
-		        <li><a href="tech_info.html">TECHNICAL INFORMATION</a></li>
-		    </ul>
-		</div>
-	</div>
-	<!--END Off Nav Bar-->
+<?php include 'heading.php';?>
 
 	<!--Main Content-->
 	<div class="uk-grid uk-container-center">
@@ -81,9 +29,10 @@
 	    	<h2>Technical Documentation</h2>
 	    </div>
 	</div>
+	<!--END Main Content-->
 
 	<!--Ground Monitoring System-->
-	<div class="uk-grid uk-container-center">
+	<div class="uk-grid uk-container-center technical_info">
 		<div class="uk-width-1-5"></div>
 		<h3>Ground Monitoring System</h3>
 	</div>
@@ -112,22 +61,47 @@
 	</div>
 	<!--END Ground Monitoring System-->
 
-	
-	<!--Ground Monitoring System-->
-	<div class="uk-grid uk-container-center">
+	<!--Portable-->
+	<div class="uk-grid uk-container-center technical_info">
 		<div class="uk-width-1-5"></div>
-		<h3>Ground Monitoring System</h3>
+		<h3>Portable System</h3>
 	</div>
 	<div class="uk-grid uk-container-center technical_downloads">
 		<div class="uk-width-1-5"></div>
     	<div class="uk-width-1-10">
-    		<a href="assets/data/PDFs/PermanentAndTruckMounted/STS_8805_E.PDF" download="STS 300 Wiring Diagram"><img src="assets/img/pdf.png">
-    		<p>STS 300 Wiring Diagram</p></a>
+    		<a href="assets/data/PDFs/Portable/ESDM_G8.pdf"  download="ESDM G8 Portable"><img src="assets/img/pdf.png">
+    		<p>ESDM G8 Portable</p></a>
     	</div>
-	<!--Ground Monitoring System-->
+    </div>
+    <!--END Portable-->
+
+    <!--Clamps and Options-->
+	<div class="uk-grid uk-container-center technical_info">
+		<div class="uk-width-1-5"></div>
+		<h3>Clamps and Options</h3>
+	</div>
+	<div class="uk-grid uk-container-center technical_downloads">
+		<div class="uk-width-1-5"></div>
+    	<div class="uk-width-1-10">
+    		<a href="assets/data/PDFs/ClampsAndOptions/Clamp_Assembly.pdf"  download="K78160A Aluminum Clamp"><img src="assets/img/pdf.png">
+    		<p>K78160A Aluminum Clamp</p></a>
+    	</div>
+    	<div class="uk-width-1-10">
+    		<a href="assets/data/PDFs/ClampsAndOptions/STS_8850.pdf"  download="GW7-50 Retractable Reel"><img src="assets/img/pdf.png">
+    		<p>GW7-50 Retractable Reel</p></a>
+    	</div>
+    	<div class="uk-width-1-10">
+    		<a href="assets/data/PDFs/ClampsAndOptions/Reel_Assy_3D.pdf"  download="GW7-50 Retractable Reel 3D View"><img src="assets/img/pdf.png">
+    		<p>GW7-50 Retractable Reel 3D View</p></a>
+    	</div>
+    	<div class="uk-width-1-10">
+    		<a href="assets/data/PDFs/ClampsAndOptions/Clamp_Assembly_3D.pdf"  download="K78160A Aluminum Clamp 3D View"><img src="assets/img/pdf.png">
+    		<p>K78160A Aluminum Clamp 3D View</p></a>
+    	</div>
+    </div>
+    <!--END Clamps and Options-->
 
 <?php include 'footer.php';?>
 
-	<!--END Main Content-->
 </body>
 </html>

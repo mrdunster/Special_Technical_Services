@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html class="uk-height-viewport uk-width-1-1">
+<head>
+	<title>Special Technical Servies - Home</title>
+	<link rel="stylesheet" href="assets/libraries/uikit/css/uikit.min.css" />
+	<link rel="stylesheet" href="assets/css/user.css" />
+	<link rel="icon" href="assets/img/favicon.ico">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+	<script src="assets/libraries/uikit/js/uikit.min.js"></script>
+	<script src="assets/js/user.js"></script>
+</head>
+<body>
+
 	<!--Footer-->
 	<div class="uk-grid uk-container-center footer_content">
 	    <div class="uk-width-1-2">
@@ -30,7 +43,7 @@
 	                    <li><a href="#">Privacy Policy</a></li>
 	                </ul>
 		    	</div>
-		    	<div class="uk-width-large-2-5 uk-width-medium-2-5 uk-width-small-1-1 footer_content">
+		    	<div class="uk-width-large-2-5 uk-width-medium-2-5 uk-width-small-1-1">
 		    		<h3>Contact Us</h3>
 	                <p><span class="footer_bold_text">Main Facility</span>
 	                <br />
@@ -56,3 +69,4 @@
 		    </div>
 	    </div>
 	<!--END Footer-->
+</body>

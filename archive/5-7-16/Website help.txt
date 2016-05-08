@@ -1,0 +1,33 @@
+Website Design
+http://getuikit.com/
+
+Icons
+https://fortawesome.github.io/Font-Awesome/icons/
+http://www.flaticon.com/
+
+Colors
+https://flatuicolors.com/
+http://www.colourlovers.com/palettes/search?query=coffee
+http://colorschemedesigner.com/csd-3.5/
+
+Chrome Extension (panda)
+https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap?hl=en
+
+Creative Work
+https://www.behance.net/search?field=102&content=projects&sort=appreciations&time=week
+http://abduzeedo.com/tags/sites-week
+https://dribbble.com/
+https://unsplash.com/
+https://onepagelove.com/
+
+Code Help
+https://css-tricks.com/
+
+Fonts
+www.dafont.com
+www.1001fonts.com
+www.fontsquirrel.com
+www.google.com/fonts
+
+WAMP VHost
+https://www.youtube.com/watch?v=8b21rRN-hzo
