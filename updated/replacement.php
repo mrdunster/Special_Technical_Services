@@ -17,87 +17,6 @@
 	  ga('create', 'UA-76721709-1', 'auto');
 	  ga('send', 'pageview');	</script>
 	<meta http-equiv="refresh" content="1"-->
-	<style id="Circuit Boards_2979_Styles">
-		<!--table
-			{mso-displayed-decimal-separator:"\.";
-			mso-displayed-thousand-separator:"\,";}
-		.xl152979
-			{padding-top:1px;
-			padding-right:1px;
-			padding-left:1px;
-			mso-ignore:padding;
-			color:black;
-			font-size:11.0pt;
-			font-weight:400;
-			font-style:normal;
-			text-decoration:none;
-			font-family:Calibri, sans-serif;
-			mso-font-charset:0;
-			mso-number-format:General;
-			text-align:general;
-			vertical-align:bottom;
-			mso-background-source:auto;
-			mso-pattern:auto;
-			white-space:nowrap;}
-		.xl652979
-			{padding-top:1px;
-			padding-right:1px;
-			padding-left:1px;
-			mso-ignore:padding;
-			color:black;
-			font-size:11.0pt;
-			font-weight:400;
-			font-style:normal;
-			text-decoration:none;
-			font-family:Calibri, sans-serif;
-			mso-font-charset:0;
-			mso-number-format:General;
-			text-align:general;
-			vertical-align:bottom;
-			border:.5pt solid windowtext;
-			mso-background-source:auto;
-			mso-pattern:auto;
-			white-space:nowrap;}
-		.xl662979
-			{padding-top:1px;
-			padding-right:1px;
-			padding-left:1px;
-			mso-ignore:padding;
-			color:black;
-			font-size:11.0pt;
-			font-weight:400;
-			font-style:normal;
-			text-decoration:none;
-			font-family:Calibri, sans-serif;
-			mso-font-charset:0;
-			mso-number-format:General;
-			text-align:center;
-			vertical-align:middle;
-			border:.5pt solid windowtext;
-			mso-background-source:auto;
-			mso-pattern:auto;
-			white-space:nowrap;}
-		.xl672979
-			{padding-top:1px;
-			padding-right:1px;
-			padding-left:1px;
-			mso-ignore:padding;
-			color:black;
-			font-size:11.0pt;
-			font-weight:700;
-			font-style:normal;
-			text-decoration:none;
-			font-family:Calibri, sans-serif;
-			mso-font-charset:0;
-			mso-number-format:General;
-			text-align:center;
-			vertical-align:middle;
-			border:.5pt solid windowtext;
-			mso-background-source:auto;
-			mso-pattern:auto;
-			white-space:normal;}
-		-->
-	</style>
 </head>
 <body class="uk-height-1-2">
 
@@ -112,9 +31,7 @@
 	    	<p>Now you can economically protect personnel, equipment, material and plant operations from catastrophic damage when transferring hazardous liquids.  Even if your facility has a grounding rod or other grounding system, it is entirely possible that you do not have continuously safe grounding of your equipment. Don't take that chance.</p>
 	    </div>
 	    <div class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
-	    	<a href="cables.html"><img src="assets/img/clamp_2.png"></a>
-	    	<a href="cables.html"><h3>Ground Cables</h3></a>
-	    	<p>Multiple types and lengths to meet your needs</p>
+			<?php include 'assets/data/Website Tables/Circuit Boards/Circuit Boards.html';?>
 	    </div>
 		<div class="uk-visible-large uk-width-1-4"></div>
 		<div class="uk-visible-large uk-width-1-4"></div>
@@ -130,6 +47,7 @@
 	    </div>
 	</div>
 	<!--END  Main Content-->
+
 
 <?php include 'footer.php';?>
 

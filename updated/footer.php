@@ -29,16 +29,16 @@
 		    	<div class="uk-hidden-small uk-width-1-5 footer_content_else">
 		    		<h3>Explore</h3>
 		    		<ul>
-		    			<li><a href="index.html">Home</a></li>
+		    			<li><a href="index.php">Home</a></li>
 		    			<li><a href="#">About Us</a></li>
 	                    <li><a href="#">Services</a></li>
-	                    <li><a href="products.html">Products</a></li>
+	                    <li><a href="products.php">Products</a></li>
 		    		</ul>
 		    	</div>
 		    	<div class="uk-hidden-small uk-width-1-4 footer_content_else">
 		    		<h3>Browse</h3>
 	                <ul>
-	                    <li><a href="contact.html">Contact Us</a></li>
+	                    <li><a href="contact.php">Contact Us</a></li>
 	                    <li><a href="#">Terms of Service</a></li>
 	                    <li><a href="#">Privacy Policy</a></li>
 	                </ul>
