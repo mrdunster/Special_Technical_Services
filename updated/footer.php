@@ -21,6 +21,8 @@
 	                	<p>Special Technical Services Inc. has been providing static ground monitoring solutions since 1976.  STS was founded by Ron Dunster and his vision, business principles, and commitment to excellence has proudly now extended into a third generation.
 	                	<br></br>
 	                	We are a family owned business and our company goal has always been to provide a quality product delivered at a competitive price that ensures the most value to our customers. Serving our customers' needs with a premium experience in response, delivery and quality is our objective every single day. </p>
+						<p>Copyright &copy; 2016  Special Technical Services Inc   All rights are reserved.</p>
+
 	            </div>
 	        </div>
 	    </div>
@@ -68,5 +70,6 @@
 		    	</div>
 		    </div>
 	    </div>
+	</div>
 	<!--END Footer-->
 </body>

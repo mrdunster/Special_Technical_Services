@@ -26,11 +26,11 @@
 	<div class="uk-grid product_content_info uk-container-center">
 		<div class="uk-visible-large uk-width-1-4"></div>
 	    <div class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
-	    	<a href="units.html"><img src="assets/img/lights_2.png"></a>
-	    	<a href="units.html"><h3>STS 300 Series Electronic Indicator Ground Assembly</h3></a>
-	    	<p>Now you can economically protect personnel, equipment, material and plant operations from catastrophic damage when transferring hazardous liquids.  Even if your facility has a grounding rod or other grounding system, it is entirely possible that you do not have continuously safe grounding of your equipment. Don't take that chance.</p>
+	    	<img src="assets/img/circuit_board.jpg">
+	    	<a href="units.html"><h3>Circuit Boards</h3></a>
+	    	<p>Available for direct replacement for damaged boards. They need to be specified by voltage 12VDC, 24VDC, 120VAC, 240VAC. Some retrofit capabilities to older STS300 series models are possible. Contact us to confirm.</p>
 	    </div>
-	    <div class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
+	    <div class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1 replace_style">
 			<?php include 'assets/data/Website Tables/Circuit Boards/Circuit Boards.html';?>
 	    </div>
 		<div class="uk-visible-large uk-width-1-4"></div>
