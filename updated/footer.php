@@ -26,7 +26,7 @@
 	            </div>
 	        </div>
 	    </div>
-	    <div class="uk-width-1-2">
+<!-- 	    <div class="uk-width-1-2">
 	    	<div class="uk-grid">
 		    	<div class="uk-hidden-small uk-width-1-5 footer_content_else">
 		    		<h3>Explore</h3>
@@ -71,5 +71,31 @@
 		    </div>
 	    </div>
 	</div>
-	<!--END Footer-->
+ -->	<!--END Footer-->
+
+ 		<div class="uk-grid-width-1-2">
+			<div class="uk-width-1-1">
+	    		<h3>Contact Us</h3>
+                <p><span class="footer_bold_text">Main Facility</span>
+                <br />
+                120 Stryker Lane
+                <br />
+                Suite 405A
+                <br />
+                Hillborough, NJ 08844
+            	<br />
+                <p><span class="footer_bold_text">Accounts Payable</span>
+                <br />
+                11 Carlton Rd
+                <br />
+                Flanders, NJ 07836
+                <br />
+                <br />
+                Phone: 609-259-2626
+                <br />
+                Fax: 609-259-0044
+                <br>
+                Email: <a href="mailto:STSInc88@aol.com">STSInc88@aol.com</a><p>
+	    	</div>
+ 		</div>
 </body>

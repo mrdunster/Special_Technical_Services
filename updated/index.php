@@ -36,26 +36,26 @@
 
 
 	<!--Mini Content-->
-	<section id="miniLinks" class="uk-width-3-4 uk-container-center">
-		<article class="uk-width-1-4">
+	<section id="miniLinks" class="uk-width-2-3  uk-container-center">
+		<article class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
 		<h3><img class="uk-res"src="assets/img/energy.png">Static Control</h3>
 		<p>STS offers many options to help protect personal equipment, material and plant operations from catastrophic damage. </p>
 		<a href="units.php">Read More <i class="uk-icon-caret-right"></i></a>
 		</article>
 
-		<article class="uk-width-1-4">
+		<article class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
 		<h3><img src="assets/img/wrench.png">Replacement Parts</h3>
 		<p>Did something break? Check out our wide range of replacement parts available.</p>
 		<a href="replacement.php">Read More <i class="uk-icon-caret-right"></i></a>
 		</article>
 
-		<article class="uk-width-1-4">
+		<article class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
 		<h3><img src="assets/img/truck.png">Current Applications</h3>
 		<p>Our products can be found on mobile vehicles, machinery, receiving containers, and marine vessels.</p>
 		<a href="applications.php">Read More <i class="uk-icon-caret-right"></i></a>
 		</article>
 
-		<article class="uk-width-1-4">
+		<article class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
 		<h3><img src="assets/img/purchase.png">Purchasing Product</h3>
 		<p>Already know what you need? Check out our extensive ordering selections available.</p>
 		<a href="ordering_guide.php">Read More <i class="uk-icon-caret-right"></i></a><!--Add RFQ link here eventually -->
