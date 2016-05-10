@@ -6,6 +6,10 @@ body {
     background: #E9ECF3;
 }
 
+*{
+    word-wrap: break-word;
+}
+
 /*------ Nav Bar ------*/
 .uk-navbar {
 	background: transparent;
