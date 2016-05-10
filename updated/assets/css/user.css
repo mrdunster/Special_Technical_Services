@@ -229,3 +229,25 @@ IMG.display {
     margin-top: 170px;
 }
 /*------ END Replacement Parts ------*/
+
+#miniLinks {
+    overflow: auto;
+    margin-top: 5px;
+}
+#miniLinks h3 {
+    margin:0px;
+    font-weight: bold;
+}
+#miniLinks img {
+    margin-right: 3px;
+}
+#miniLinks article {
+    float:left;
+}
+#miniLinks p {
+    margin:0px 2px;
+    text-align: left;
+}
+#miniLinks a {
+    display: block;
+}
