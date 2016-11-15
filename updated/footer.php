@@ -8,12 +8,13 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 	<script src="assets/libraries/uikit/js/uikit.min.js"></script>
 	<script src="assets/js/user.js"></script>
+	<!--meta http-equiv="refresh" content="2"-->
 </head>
 <body>
 
 	<!--Footer-->
 	<div class="uk-grid uk-container-center footer_content">
-	    <div class="uk-width-1-2">
+	    <div class="uk-width-2-3">
 	    	<div class="uk-grid">
 	    		<div class="uk-width-2-6 uk-visible-large"></div>
 		    	<div class="uk-width-large-4-6">

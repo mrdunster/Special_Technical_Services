@@ -35,7 +35,7 @@ body {
 }
 
 .assisted_center {
-	margin-left: 95px;
+	margin-left: 55px;
 }
 /*------ END Nav Bar ------*/
 
@@ -249,7 +249,7 @@ IMG.display {
     float:left;
 }
 #miniLinks p {
-    margin:0px 2px;
+    margin:0px 8px;
     text-align: left;
 }
 #miniLinks a {

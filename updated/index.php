@@ -36,16 +36,16 @@
 
 
 	<!--Mini Content-->
-	<section id="miniLinks" class="uk-width-2-3  uk-container-center">
+	<section id="miniLinks" class="uk-width-3-5  uk-container-center">
 		<article class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
 		<h3><img class="uk-res"src="assets/img/energy.png">Static Control</h3>
-		<p>STS offers many options to help protect personal equipment, material and plant operations from catastrophic damage. </p>
+		<p>STS offers many options to help protect personal equipment, material, and plant operations from catastrophic damage. </p>
 		<a href="units.php">Read More <i class="uk-icon-caret-right"></i></a>
 		</article>
 
 		<article class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
 		<h3><img src="assets/img/wrench.png">Replacement Parts</h3>
-		<p>Did something break? Check out our wide range of replacement parts available.</p>
+		<p>Did something break? View our wide range of replacement parts available.</p>
 		<a href="replacement.php">Read More <i class="uk-icon-caret-right"></i></a>
 		</article>
 
